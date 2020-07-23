@@ -1,0 +1,11 @@
+(supertux-sprite
+
+       (action
+         (name "grow-right")
+         (images "../../objects/bonus_block/invisible.png"))
+
+       (action
+         (name "grow-left")
+         (mirror-action "grow-right"))
+
+)
