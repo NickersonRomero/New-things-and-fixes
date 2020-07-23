@@ -1,0 +1,34 @@
+(supertux-sprite
+ (action
+  (name "normal")
+  (fps 10)
+  (loops 1)
+  (hitbox 9 21 31.8 31.8)
+  (images "ff1.png"
+          "ff1.png"
+		  "ff1.png"
+		  "ff1.png"
+		  "ff1.png"
+		  "ff1.png"
+		  "ff1.png"
+          "ff1.png"
+		  "ff1.png"
+		  "ff1.png"
+		  "ff1.png"
+		  "ff1.png"
+		  "ff1.png"
+          "ff2.png"
+		  "ff3.png"
+		  "ff4.png"))
+
+ (action
+  (name "down")
+  (fps 15)
+  (loops 1)
+  (hitbox 9 29 31.8 31.8)
+  (images "ff5.png"
+          "ff6.png"
+		  "ff7.png"
+		  "ff8.png"))
+)
+
